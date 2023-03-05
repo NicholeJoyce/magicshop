@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Oswald&family=Pacifico&family=Shalimar&family=Varela+Round&display=swap');
+body{
+  
+    background-image: url(images/bakrawn.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.card{
+    background-image: url(images/try2.jfif);
+    background-size: 430px;
+    border-color:rgb(91, 21, 115);
+    font-family: 'Varela Round', sans-serif;
+    border-radius:25px; 
+    color:#583759;
+    margin-top:45px;
+    margin-left:255px;
+    margin-bottom: 70px;
+}
+.album{
+    border-radius: 25px;
+
+}
+.nav-link{
+    color:brown;
+}
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    color:#780d49;
+    font-size: 65px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 9px;
+    
+}
+.form-inline {
+    margin-right: 65px;
+}
+.fbicon{
+    margin-right:1px;
+    
+}
+.igicon{
+    
+    margin-right:20px;
+}
+.twtricon{
+    margin-right:50px;
+}
+.logoicon{
+    margin-left: 150px;
+}
+.cartchaticon{
+    margin-top: 10px;
+   
+}
+.chaticon{
+    margin-left: 50px;
+}
+
+.btn-primary{
+    
+    background-color: rgb(252, 148, 200);
+    font-family: 'Oswald', sans-serif;
+    color:rgb(127, 26, 160);
+    border-color: rgb(235, 127, 188);
+}
+.btn-outline-success{
+    border-color: #e663af;
+    color:rgb(65, 56, 56);
+}
